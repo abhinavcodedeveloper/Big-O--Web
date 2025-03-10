@@ -7,6 +7,6 @@ export default defineConfig({
   plugins: [react()
   , tailwindcss()
   ],
-  base: "/Big-O--Web",
+  base: "/Big-O--Web/",
   host: true
 })
